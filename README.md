@@ -1,1 +1,1 @@
-# Dialogue_Model_Cornell_Movie_Corpus_Seq2SeqWAttention
+### Simple Dialogue Model using the Cornell Movie Dialogs Corpus
